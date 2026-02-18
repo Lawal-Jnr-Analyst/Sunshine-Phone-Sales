@@ -16,7 +16,7 @@ The goal is to provide stakeholders with a clear visualization of global sales t
 - Apple and LG are neck-and-neck for the top spot, both exceeding $30M in revenue, while Huawei represents a growth opportunity at $7M.
 
 ## 🖥️ Preview
-[Adidas Dashboard](https://github.com/Lawal-Jnr-AnalystSunshine-Intel-Phone-Sales-Analysis/blob/main/SUNSHINE%20PHONE%20SALES.jpg)
+[Sunshine Intel Phone Dashboard](https://github.com/Lawal-Jnr-Analyst/Sunshine-Intel-Phone-Sales-Analysis/blob/main/SUNSHINE%20PHONE%20SALES.jpg)
 >click the image above to see a preview of the final dashboard.
 
 
