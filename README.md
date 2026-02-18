@@ -1,4 +1,4 @@
-# 📱 Sunshine-Intel-Phone-Sales-Analysis
+# 📱 Sunshine-Phone-Sales-Analysis
 
 ## 📊 Project Overview
 This project features a comprehensive sales dashboard for Sunshine Intel, a global mobile device retailer. By analyzing transactional data from 2018 to 2021, the dashboard identifies key drivers of revenue, including brand popularity, distributor efficiency, and regional market penetration.
@@ -16,7 +16,7 @@ The goal is to provide stakeholders with a clear visualization of global sales t
 - Apple and LG are neck-and-neck for the top spot, both exceeding $30M in revenue, while Huawei represents a growth opportunity at $7M.
 
 ## 🖥️ Preview
-[Sunshine Intel Phone Dashboard](https://github.com/Lawal-Jnr-Analyst/Sunshine-Phone-Sales/blob/main/SUNSHINE%20PHONE%20SALES.jpg)
+[Sunshine Phone Dashboard](https://github.com/Lawal-Jnr-Analyst/Sunshine-Phone-Sales/blob/main/SUNSHINE%20PHONE%20SALES.jpg)
 >click the image above to see a preview of the final dashboard.
 
 
